@@ -11,17 +11,11 @@
 <br/>
 <hr />
 
-<table>
-  <tr>
-    <td>
+
       
     ![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true&theme=dracula&hide=stars)
       
-    </td>
-    <td>
       
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsaeedhassani&layout=compact)](https://github.com/realsaeedhassani/github-readme-stats)
       
-    </td>
-  </tr>
-  </table>
+
