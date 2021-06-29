@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/realsaeedhassani/">
   <img align="left" alt="Saeed | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br/>
+<hr />
 
-<br />
 
-
-![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true&theme=dracula&hide=issues)
+![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true&theme=dracula&hide=star)
