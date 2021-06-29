@@ -11,8 +11,13 @@
 <br/>
 <hr />
 
-
-![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true&theme=dracula&hide=stars)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsaeedhassani&langs_count=8)](https://github.com/realsaeedhassani/github-readme-stats)
+<table>
+  <tr>
+    <td>
+    ![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true&theme=dracula&hide=stars)
+    </td>
+    <td>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsaeedhassani&layout=compact)](https://github.com/realsaeedhassani/github-readme-stats)
+    </td>
+  </tr>
+  </table>
