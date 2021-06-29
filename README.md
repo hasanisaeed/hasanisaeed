@@ -19,8 +19,7 @@
 </td>
 <td style='border: none'>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsaeedhassani&layout=compact)](https://github.com/realsaeedhassani/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsaeedhassani&layout=compact)
 
 </td>
 </tr>
