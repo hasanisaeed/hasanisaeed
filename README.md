@@ -10,17 +10,15 @@
 </a>
 <br/>
 <br/>
-<table style='border: none'>
-<tr style='border: none'>
-<td style='border: none'>
+<div>
+<div style="float: left;width:300px">
 
 ![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true)
 
-</td>
-<td style='border: none'>
+</div>
+<div style='float: right;width:300px'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsaeedhassani&layout=compact)
 
-</td>
-</tr>
-</table>
+</div>
+</div>
