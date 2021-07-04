@@ -14,7 +14,7 @@
 <tr style='border: none'>
 <td style='border: none'>
 
-![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true&hide=stars)
+![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true)
 
 </td>
 <td style='border: none'>
