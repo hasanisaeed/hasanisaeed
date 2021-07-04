@@ -9,16 +9,5 @@
   <img align="left" alt="Saeed | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
-<br/>
-<div>
-<div style="float: left;width:300px">
-
-![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true)
-
-</div>
-<div style='float: right;width:300px'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsaeedhassani&layout=compact)
-
-</div>
-</div>
+<br/> 
+![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true) 
