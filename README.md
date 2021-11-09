@@ -12,3 +12,9 @@
 <br/> 
 
 ![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=realsaeedhassani&show_icons=true) | <a href="https://stackoverflow.com/users/9422637/saeed"><img src="https://stackoverflow.com/users/flair/9422637.png" width="208" height="58" alt="profile for Saeed Hassani Borzadaran on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Saeed Hassani Borzadaran on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+### GitHub Stats
+
+[![Harsha's github activity graph](https://activity-graph.herokuapp.com/graph?username=realsaeedhassani&theme=react-dark)](https://github.com/realsaeedhassani)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=realsaeedhassani" alt="Saeed Hassani Borzadaran" /> </p>
