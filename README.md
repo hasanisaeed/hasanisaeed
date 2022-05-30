@@ -9,7 +9,7 @@
 -----------
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=realsaeedhassani&theme=dark)](https://git.io/streak-stats) 
-<!-- 
-[![Saeed's github activity graph](https://activity-graph.herokuapp.com/graph?username=realsaeedhassani&theme=react-dark)](https://github.com/realsaeedhassani) -->
+
+[![Saeed's github activity graph](https://activity-graph.herokuapp.com/graph?username=realsaeedhassani&theme=react-dark)](https://github.com/realsaeedhassani) 
 
 
