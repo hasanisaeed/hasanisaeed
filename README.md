@@ -1,7 +1,5 @@
 <h3 align="center"> 🚀 Thank's Github, check <a href="https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/">this</a> out</h3>
 
------
-
 <div align="center">
 
  <h2>I'm Saeed</h2>
