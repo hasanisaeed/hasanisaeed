@@ -1,8 +1,8 @@
  <div align="center">
-## Hi,👋 I'm Saeed 
+Hi,👋 I'm Saeed 
 </div>
 
-## Facts!
+### Facts!
 
 - **VIM is the best editor!** But I never quite had the time to actually master it. Maybe… one day… 😅
 - **If you ever install Ubuntu**, there will come a day when you finally **decide to remove it!**
