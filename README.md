@@ -8,9 +8,6 @@ Hi,👋 I'm Saeed
 - **If you ever install Ubuntu**, there will come a day when you finally **decide to remove it!**
 - **Not using chatbots these days [LLMs]?** That's like _sticking to an abacus_ when _calculators_ are readily available. Seriously!
 
----
-This list will be updated… stay tuned! 🔄
-
 
 
 
